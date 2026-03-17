@@ -4592,6 +4592,7 @@ https://blog.garrettallen.dev/index.xml
 https://blog.garstasio.com/you-dont-need-jquery/feed.xml
 https://blog.gatunka.com/atom/
 https://blog.gaurang.page/rss.xml
+https://blog.gauravsingharoy.net/index.xml
 https://blog.gauthumb.com/index.xml
 https://blog.gavide.dev/feed.xml
 https://blog.gchinis.com/index.xml
@@ -20310,6 +20311,7 @@ https://ocramius.github.io/atom.xml
 https://ocs.bearblog.dev/feed/
 https://octet-stream.net/b/scb/atom.xml
 https://octocat.dev/feed.xml
+https://ocytko.net/index.xml
 https://odd.blog/feed/
 https://oddathenaeum.com/feed/
 https://oddball.blog/atom/
@@ -33391,6 +33393,7 @@ https://www.thephysicsmill.com/feed/
 https://www.thepolyglotdeveloper.com/blog/index.xml
 https://www.thepourquoipas.com/blog-feed.xml
 https://www.theppk.com/feed/
+https://www.theprincipalrecruiter.com/blog-feed.xml
 https://www.thepublicdomain.org/feed/
 https://www.theramenrater.com/atom/
 https://www.thereformedprogrammer.net/feed/
